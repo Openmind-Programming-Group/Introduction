@@ -1,2 +1,3 @@
-# Introduction
-INU-OPG Introduction
+# INU OPG
+
+## 소개
