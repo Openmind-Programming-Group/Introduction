@@ -4,6 +4,7 @@
 <!--
 이곳은 OPG 회원 수와 OPG 연혁 링크가 들어올 자리입니다.
 -->
+<img src="https://avatars.githubusercontent.com/u/73374869?s=200&v=4" alt="OPG Logo">
 
 </div>
 
