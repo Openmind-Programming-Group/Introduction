@@ -44,7 +44,7 @@
 
 - [소모임 소개 바로가기](http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=99315&siteId=isis)
 
-## Read More
+## 신청 및 질문
 
 - OPG 입부하고싶으신 분께서는 "[지원 방법](./join.md)"을 확인해주세요.
 - OPG에 관한 질문은 "[이슈](https://github.com/Openmind-Programming-Group/Introduction/issues)" 게시판을 이용해주세요.
