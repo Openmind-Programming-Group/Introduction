@@ -1,6 +1,8 @@
 <div align="center">
 
+
 # OPG (Openmind Programming Group)
+<!-- OPG(Ogre Power Gauntlet) 앗 아... -->
 
 <!--
 이곳은 OPG 회원 수와 OPG 연혁 링크가 들어올 자리입니다.
